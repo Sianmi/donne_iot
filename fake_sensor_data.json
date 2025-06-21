@@ -1,7 +1,7 @@
 {
-  "vitesse": 45.7,
+  "vit": 45.7,
   "gaz": 78.3,
-  "batterie": 12.6,
-  "temperature": 36.9,
-  "courant": 2.4
+  "vbat": 12.6,
+  "temp": 36.9,
+  "ibat": 2.4
 }
